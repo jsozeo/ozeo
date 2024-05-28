@@ -1691,7 +1691,7 @@ File Name: C:\Downloaded Web Sites\ozeo\www.ozeo.io\nya5mxp.js
 Content Type: text/javascript
 
 Uri: https://www.ozeo.io/
-File Name: C:\Downloaded Web Sites\ozeo\www.ozeo.io\index.htm
+File Name: C:\Downloaded Web Sites\ozeo\www.ozeo.io\index.html
 Content Type: text/html
 
 Uri: https://www.ozeo.io/?utm-source=AX
